@@ -12,7 +12,7 @@
                            into computer-legible code.</p>
 <br>
 
-## self.assessment(topic_options):
+## self.assessment(topic_options)
 Bash scripting, Unity, Python<br>
 Low Level puzzles<br>
 The psychological profile of your favorite AI<br>
