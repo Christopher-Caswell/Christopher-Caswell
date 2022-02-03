@@ -6,22 +6,19 @@
 </p>
 <br>
 
- <p style="color:powderblue">This Github has been utilized for a somewhat-difficult-to-count-but-completely-reasonable
- amount of hours in
- researching the most efficient way to transmute coffee
-                           into computer-legible code.</p>
+ <p style="color:powderblue"> "If all pork chops were perfect, there'd be no hot dogs" </p>
 <br>
 
 ## self.assessment(topic_options)
-Bash scripting, Unity, Python<br>
+Unity, Python, Java's legal fun<br>
 Low Level puzzles<br>
 The psychological profile of your favorite AI<br>
 How much you love Github<br><br>
 
 ## $(Learning_goals)
 AR/VR processess through Unity<br>
-Assembly code<br>
-Better testing methods<br><br>
+Pen testing<br>
+Better testing methods for scripting<br><br>
  
 <h3 align="center">
 Some of the languages I have used:
