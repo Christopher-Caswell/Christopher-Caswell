@@ -10,15 +10,16 @@
 <br>
 
 ## self.assessment(topic_options)
-Unity, Python, Java's legal fun<br>
+RPG, Cobol, Java's legal fun<br>
 Low Level puzzles<br>
 The psychological profile of your favorite AI<br>
-How much you love Github<br><br>
+Staying alive and relevant during the AI revolution<br> 
+Security risks and how to solve 'em<br><br>
 
 ## $(Learning_goals)
-AR/VR processess through Unity<br>
-Pen testing<br>
-Better testing methods for scripting<br><br>
+Cobol SOP<br>
+Pen testing forever<br>
+Better scripting, better process design<br><br>
  
 <h3 align="center">
 Some of the languages I have used:
@@ -30,7 +31,7 @@ Some of the languages I have used:
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![C#](https://img.shields.io/badge/C%23-%232391.svg?style=&logo=c-sharp&logoColor=white)
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-
+![RPG](https://img.shields.io/badge/RPG-000000?style=flat&logo=RPG) 
 
 Some of the technologies with which I have worked:
 
@@ -40,6 +41,8 @@ Some of the technologies with which I have worked:
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-000000?style=flat&logo=.net&logoColor=white)
+![as400](https://img.shields.io/badge/as400-000000?style=flat&logo=as400)
+![unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white) 
 
 **My current Github statistics assessment:**
 
